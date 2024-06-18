@@ -1,0 +1,10 @@
+arr=[2,3,5,2,];
+console.log(arr);
+arr.push(8);
+console.log(arr);
+arr.pop() ;
+console.log(arr);
+arr.unshift(7);
+console.log(arr);
+arr.shift();
+console.log(arr);
