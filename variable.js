@@ -1,0 +1,12 @@
+a=19;
+console.log(a);
+a=20;
+console.log(a);
+a="amendra";
+console.log(a);
+b=5;
+console.log(b);
+ b*=3.14;
+console.log(b);
+age=21;
+console.log("my age is ",age, "and i am young");
